@@ -20,9 +20,9 @@
  *   ...
  */
 class VoucherGenerator {
-  const TEMPLATE_PATH = "/__images/identity/voucher_template-f5955251.png";
-  const PRINTER_FONT_PATH = "/__assets/fonts/fake_receipt-79b516b4.ttf";
-  const SAMPLE_FONT_PATH = "/__assets/fonts/copy_paste-46e0eaea.ttf";
+  const TEMPLATE_PATH = "/assets/images/identity/voucher_template-f5955251.png";
+  const PRINTER_FONT_PATH = "/assets/fonts/fake_receipt-79b516b4.ttf";
+  const SAMPLE_FONT_PATH = "/assets/fonts/copy_paste-46e0eaea.ttf";
 
   public $image, $color, $charset;
   public $sample = false;
