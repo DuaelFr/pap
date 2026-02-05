@@ -1,0 +1,5 @@
+ErrorDocument 404 /errors/not-found/
+
+Redirect "/tr" "/members/howto/winch/checklist"
+Redirect "/sf" "/members/howto/motorglider/checklist"
+Redirect "/vi" "/members/howto/guest-flight/checklist"
