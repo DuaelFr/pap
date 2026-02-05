@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Hack';
+  src: url('../fonts/hack-regular-latin-f2a6126d.woff2?v=2.020') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hack';
+  src: url('../fonts/hack-bold-latin-da80682d.woff2?v=2.020') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}

@@ -1,0 +1,31 @@
+/* Button */
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button,
+.button {
+  border: solid 1px #dbdbdb; }
+  input.special[type="submit"],
+  input.special[type="reset"],
+  input.special[type="button"],
+  button.special,
+  .button.special {
+    border: 0; }
+
+/* Form */
+form .field {
+  padding-left: 0; }
+
+/* Posts */
+.posts > article {
+  width: 33%;
+  float: none;
+  display: inline-block; }
+
+/* Header */
+#header {
+  border-bottom: solid 1px #dbdbdb; }
+
+/* Banner */
+#banner > article:before {
+  display: none; }
